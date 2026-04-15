@@ -3,5 +3,5 @@
 
 const CONFIG = {
   // Change this to your deployed backend URL when hosting
-  BACKEND_URL: "http://localhost:5000",
+  BACKEND_URL: "https://realtime-chatapp-w7bf.onrender.com",
 };
